@@ -3,8 +3,8 @@
     "enabled": true,
     "version": "2.4",
     "versionCode": 24,
-    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V18-Windows-2.4.zip",
-    "fileName": "V18-Windows-2.4.zip",
+    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-2.4-Setup.exe",
+    "fileName": "V.18-Windows-2.4-Setup.exe",
     "sha256": "",
     "mandatory": false,
     "features": [
@@ -15,7 +15,7 @@
       "Few bugs are fixed"
     ],
     "notes": "First versioning controlled Windows release.",
-    "packageType": "zip"
+    "packageType": "exe"
   },
   "android": {
     "enabled": true,
