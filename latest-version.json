@@ -8,11 +8,11 @@
     "sha256": "",
     "mandatory": false,
     "features": [
-      "Added offline video and image playback for previously opened topics.",
-      "Added local media cleanup progress and status details.",
-      "Added app information to the About page.",
-      "Sync failures now include the names of content that could not be downloaded.",
-      "Added tutorials for using the app and troubleshooting common issues."
+      "Added file sharing QR code to scan and share the files",
+      "Few more contents are added to topics",
+      "Some security patches are fixed",
+      "Quiz feature is updated",
+      "Few bugs are fixed"
     ],
     "notes": "First versioning controlled Windows release.",
     "packageType": "zip"
@@ -26,11 +26,11 @@
     "sha256": "",
     "mandatory": false,
     "features": [
-      "Added offline video and image playback for previously opened topics.",
-      "Sync failures now include the names of content that could not be downloaded.",
-      "Added app information to the About page.",
-      "Sync failures now include the names of content that could not be downloaded.",
-      "Added tutorials for using the app and troubleshooting common issues."
+      "Added file sharing QR code to scan and share the files",
+      "Few more contents are added to topics",
+      "Some security patches are fixed",
+      "Quiz feature is updated",
+      "Few bugs are fixed"
     ],
     "notes": "First versioning controlled Android release.",
     "packageType": "apk"
