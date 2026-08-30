@@ -1,0 +1,38 @@
+{
+  "windows": {
+    "enabled": true,
+    "version": "0.1",
+    "versionCode": 0,
+    "url": "https://github.com/V18PreniumTuition/v18-updates/releases/download/vTest/V18-Windows-0.1.zip",
+    "fileName": "V18-Windows-0.1.zip",
+    "sha256": "",
+    "mandatory": false,
+    "features": [
+      "Added offline video and image playback for previously opened topics.",
+      "Added local media cleanup progress and status details.",
+      "Added app information to the About page.",
+      "Sync failures now include the names of content that could not be downloaded.",
+      "Added tutorials for using the app and troubleshooting common issues."
+    ],
+    "notes": "First versioning controlled Windows release.",
+    "packageType": "zip"
+  },
+  "android": {
+    "enabled": true,
+    "version": "0.1",
+    "versionCode": 1,
+    "url": "https://github.com/V18PreniumTuition/v18-updates/releases/download/vTest/V18-Android-0.1.apk",
+    "fileName": "V18-Android-0.1.apk",
+    "sha256": "",
+    "mandatory": false,
+    "features": [
+      "Added offline video and image playback for previously opened topics.",
+      "Sync failures now include the names of content that could not be downloaded.",
+      "Added app information to the About page.",
+      "Sync failures now include the names of content that could not be downloaded.",
+      "Added tutorials for using the app and troubleshooting common issues."
+    ],
+    "notes": "First versioning controlled Android release.",
+    "packageType": "apk"
+  }
+}
