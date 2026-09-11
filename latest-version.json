@@ -1,10 +1,10 @@
 {
   "windows": {
     "enabled": true,
-    "version": "2.4",
-    "versionCode": 24,
-    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-2.4-Setup.exe",
-    "fileName": "V.18-Windows-2.4-Setup.exe",
+    "version": "2.5",
+    "versionCode": 25,
+    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-2.5-Setup.exe",
+    "fileName": "V.18-Windows-2.5-Setup.exe",
     "sha256": "",
     "mandatory": false,
     "features": [
