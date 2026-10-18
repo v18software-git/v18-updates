@@ -1,10 +1,10 @@
 {
   "windows": {
     "enabled": true,
-    "version": "3.0",
-    "versionCode": 30,
-    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-3.0-Setup.exe",
-    "fileName": "V.18-Windows-3.0-Setup.exe",
+    "version": "3.1",
+    "versionCode": 31,
+    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-3.1-Setup.exe",
+    "fileName": "V.18-Windows-3.1-Setup.exe",
     "sha256": "",
     "mandatory": false,
     "features": [
