@@ -8,9 +8,8 @@
     "sha256": "",
     "mandatory": false,
     "features": [
-      "Hindi subject is added",
-      "Question papers section is added",
-      "We can annotate on ppt files as well",
+      "Whiteboard feature is enhanced",
+      "More Math tools are added",
       "Some security patches are fixed",
       "Few more contents are added",
       "Few bugs are fixed"
@@ -20,16 +19,15 @@
   },
   "android": {
     "enabled": true,
-    "version": "2.7",
-    "versionCode": 27,
-    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Android-2.7.apk",
-    "fileName": "V.18-Android-2.7.apk",
+    "version": "3.1",
+    "versionCode": 31,
+    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Android-3.1.apk",
+    "fileName": "V.18-Android-3.1.apk",
     "sha256": "",
     "mandatory": false,
     "features": [
-      "Hindi subject is added",
-      "Question papers section is added",
-      "We can annotate on ppt files as well",
+      "Whiteboard feature is enhanced",
+      "More Math tools are added",
       "Some security patches are fixed",
       "Few more contents are added",
       "Few bugs are fixed"
