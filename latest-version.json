@@ -1,15 +1,15 @@
 {
   "windows": {
     "enabled": true,
-    "version": "3.2",
-    "versionCode": 32,
-    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-3.2-Setup.exe",
-    "fileName": "V.18-Windows-3.2-Setup.exe",
+    "version": "3.3",
+    "versionCode": 33,
+    "url": "https://github.com/v18software-git/v18-updates/releases/download/v18Releases/V.18-Windows-3.3-Setup.exe",
+    "fileName": "V.18-Windows-3.3-Setup.exe",
     "sha256": "",
     "mandatory": false,
     "features": [
       "Whiteboard feature is enhanced",
-      "More Math tools are added",
+      "Math tools are enhanced",
       "Some security patches are fixed",
       "Few more contents are added",
       "Few bugs are fixed"
@@ -27,7 +27,7 @@
     "mandatory": false,
     "features": [
       "Whiteboard feature is enhanced",
-      "More Math tools are added",
+      "Math tools are enhanced",
       "Some security patches are fixed",
       "Few more contents are added",
       "Few bugs are fixed"
